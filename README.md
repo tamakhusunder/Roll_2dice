@@ -1,3 +1,4 @@
+![Banner](https://github.com/tamakhusunder/Images/blob/master/magicball/twodice_roll.jpg)
 # twodice
 
 only 2 dice roll simple
